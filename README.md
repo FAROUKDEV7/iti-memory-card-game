@@ -1,7 +1,5 @@
 A sleek and interactive Memory Card Game built with pure python , Django, HTML, CSS, and JavaScript . Test your memory skills by matching pairs of cards in the fewest moves and shortest time possible!
 
-https://via.placeholder.com/800x450/6a11cb/ffffff?text=Memory+Card+Game
-Clean and modern interface with card flip animations
 
 ✨ Features
 🃏 Card Flip Animation - Smooth CSS transitions for satisfying card flips
